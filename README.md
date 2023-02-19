@@ -1,1 +1,2 @@
-# BlueTeam
+# Hacking-Notes (Blue Team)
+

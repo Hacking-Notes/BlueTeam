@@ -10,6 +10,8 @@ The log analysis section contains resources for analyzing system logs to identif
 
 The memory forensics analysis section covers techniques for analyzing system memory to identify potential threats, such as malware that may be running in memory. Finally, in the packet analysis section, you'll find resources for analyzing network traffic to identify potential threats and security incidents.
 
+https://github.com/Hacking-Notes/BlueTeam/assets/118412415/33e5a217-a572-44a0-a0d0-595ca134f7f4
+
 I hope this overview of the repository is helpful! Please feel free to explore the individual sections to learn more about each topic.
 
 ## Get the same Obsidian Setup

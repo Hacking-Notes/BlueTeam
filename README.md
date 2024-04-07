@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository! This repository is dedicated to sharing notes and resources related to blue team security, which focuses on detecting and preventing cyber attacks. Here, you'll find information on various aspects of blue team security, including email analysis, file analysis, log analysis, malware analysis, memory forensics analysis, and packet analysis.
 
-![image](https://user-images.githubusercontent.com/118412415/219983339-591d08ff-55b4-4ef8-b1c4-d2502ebea834.png)
+https://github.com/Hacking-Notes/BlueTeam/assets/118412415/33e5a217-a572-44a0-a0d0-595ca134f7f4
 
 In the email analysis section, you'll find resources and techniques for analyzing email messages to detect phishing attempts, spam, and other malicious emails. The file analysis section covers techniques for analyzing files to identify potential threats, such as malware or suspicious activity.
 
@@ -10,9 +10,15 @@ The log analysis section contains resources for analyzing system logs to identif
 
 The memory forensics analysis section covers techniques for analyzing system memory to identify potential threats, such as malware that may be running in memory. Finally, in the packet analysis section, you'll find resources for analyzing network traffic to identify potential threats and security incidents.
 
-https://github.com/Hacking-Notes/BlueTeam/assets/118412415/33e5a217-a572-44a0-a0d0-595ca134f7f4
-
 I hope this overview of the repository is helpful! Please feel free to explore the individual sections to learn more about each topic.
+
+## Access My Additional Hacking Resources
+
+Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://github.com/Hacking-Notes/Blueteam">BlueTeam Notes</a>
+
+Enhance your hacking toolkit with my Chrome Extension. Designed for ethical hacking and red team activities, it offers tailored features for an improved browsing experience. ---> <a href="https://github.com/Hacking-Notes/Extensions">Chrome Extension</a>
+
+Elevate your bookmarking game with my latest Bookmark Toolkit. Engineered for ethical bookmarking and enhanced web exploration, it delivers customized features for a seamless browsing journey. ---> <a href="https://github.com/Hacking-Notes/Bookmarks">Bookmarks</a>
 
 ## Get the same Obsidian Setup
 

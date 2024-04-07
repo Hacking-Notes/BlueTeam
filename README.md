@@ -14,7 +14,7 @@ I hope this overview of the repository is helpful! Please feel free to explore t
 
 ## Access My Additional Hacking Resources
 
-Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://github.com/Hacking-Notes/Blueteam">BlueTeam Notes</a>
+Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://github.com/Hacking-Notes/Redteam">RedTeam Notes</a>
 
 Enhance your hacking toolkit with my Chrome Extension. Designed for ethical hacking and red team activities, it offers tailored features for an improved browsing experience. ---> <a href="https://github.com/Hacking-Notes/Extensions">Chrome Extension</a>
 

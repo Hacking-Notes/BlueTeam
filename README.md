@@ -17,6 +17,8 @@ Below, you'll find a breakdown of the hacking methodology and various hacking te
 
 - The memory forensics analysis section covers techniques for analyzing system memory to identify potential threats, such as malware that may be running in memory. Finally, in the packet analysis section, you'll find resources for analyzing network traffic to identify potential threats and security incidents.
 
+- The system monitoring section equips you with tools for efficiently overseeing your system.
+
 I hope this overview of the repository is helpful! Please feel free to explore the individual sections to learn more about each topic.
 
 ## Access My Additional Hacking Resources

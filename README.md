@@ -5,7 +5,6 @@
 Welcome to my GitHub repository! This repository is dedicated to sharing notes and resources related to blue team security, which focuses on detecting and preventing cyber attacks. Here, you'll find information on various aspects of blue team security, including email analysis, file analysis, log analysis, malware analysis, memory forensics analysis, and packet analysis.
 
 Live version of my notes **(Obsidian's syntax may break elements)**: https://hacking-notes.github.io
-)
 
 ## Information
 https://github.com/Hacking-Notes/BlueTeam/assets/118412415/33e5a217-a572-44a0-a0d0-595ca134f7f4

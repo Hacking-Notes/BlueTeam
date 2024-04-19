@@ -4,11 +4,11 @@
 
 Welcome to my GitHub repository! This repository is dedicated to sharing notes and resources related to blue team security, which focuses on detecting and preventing cyber attacks. Here, you'll find information on various aspects of blue team security, including email analysis, file analysis, log analysis, malware analysis, memory forensics analysis, and packet analysis.
 
-Live version of my notes **(Obsidian's syntax may break elements)**: https://hacking-notes.github.io
+<h3>Live Version of My Notes: <a href="https://hacking-notes.github.io" style="font-size: 18px;">https://hacking-notes.github.io</a></h3>
 
 ## Information
 
-Below, you'll find a breakdown of the hacking methodology and various hacking techniques:
+Below, you'll find a breakdown of the hacking methodology and various hacking techniques that is included in my notes:
 
 - In the email analysis section, you'll find resources and techniques for analyzing email messages to detect phishing attempts, spam, and other malicious emails. The file analysis section covers techniques for analyzing files to identify potential threats, such as malware or suspicious activity.
 
@@ -28,14 +28,9 @@ Enhance your hacking toolkit with my Chrome Extension. Designed for ethical hack
 
 Elevate your bookmarking game with my latest Bookmark Toolkit. Engineered for ethical bookmarking and enhanced web exploration, it delivers customized features for a seamless browsing journey. ---> <a href="https://github.com/Hacking-Notes/Bookmarks">Bookmarks</a>
 
-## Get the same Obsidian Setup
+## Download my Notes
 
-If you aspire to recreate the elegant and fashionable obsidian setup, you're in for a treat! Achieving the same aesthetic is a breeze with the download link provided below, which includes all the obsidian plugins I utilize with my notes.
-
-Link: <a href="https://drive.proton.me/urls/RH80T2AQFR#gSaXYYpJRFF8">Proton Drive</a>
-
-- Unpack the file (you may have to temporarily disable Windows thread and protection during unpacking as certain file names may trigger deletions). 
-- Launch Obsidian and direct it to the recently unpacked files!
+If you want to have my notes available offline in your Obsidian setup, feel free to download my archive file and customize it to your liking.
 
 ---
 

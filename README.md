@@ -7,7 +7,6 @@ Welcome to my GitHub repository! This repository is dedicated to sharing notes a
 Live version of my notes **(Obsidian's syntax may break elements)**: https://hacking-notes.github.io
 
 ## Information
-https://github.com/Hacking-Notes/BlueTeam/assets/118412415/33e5a217-a572-44a0-a0d0-595ca134f7f4
 
 Below, you'll find a breakdown of the hacking methodology and various hacking techniques:
 

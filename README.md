@@ -1,6 +1,6 @@
 # Hacking Notes (BlueTeam)
 
-[![Hacking-Notes](https://github.com/user-attachments/assets/9e7f6ed9-f59a-4fc7-a616-0c2e8f07f1ba)](https://hacking-notes.com)
+[![Hacking-Notes](https://github.com/user-attachments/assets/b8f1ef0e-b401-4a43-bfd7-4b4d6f589581)](https://hacking-notes.com)
 
 Welcome to my GitHub repository! This repository is dedicated to sharing notes and resources related to blue team security, which focuses on detecting and preventing cyber attacks. Here, you'll find information on various aspects of blue team security, including email analysis, file analysis, log analysis, malware analysis, memory forensics analysis, and packet analysis.
 

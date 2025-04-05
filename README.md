@@ -1,7 +1,5 @@
 # Hacking Notes (BlueTeam)
 
-[![Hacking-Notes](https://github.com/user-attachments/assets/b8f1ef0e-b401-4a43-bfd7-4b4d6f589581)](https://hacking-notes.com)
-
 Welcome to my GitHub repository! This repository is dedicated to sharing notes and resources related to blue team security, which focuses on detecting and preventing cyber attacks. Here, you'll find information on various aspects of blue team security, including email analysis, file analysis, log analysis, malware analysis, memory forensics analysis, and packet analysis.
 
 <h3>Live Version of My Notes: <a href="https://hacking-notes.com" style="font-size: 18px;">https://hacking-notes.com</a></h3>
@@ -35,7 +33,3 @@ If you want to have my notes available offline in your Obsidian setup, feel free
 ---
 
 **Please note that these notes do not comprise a comprehensive guide to becoming a blueteamer. They are a work in progress and will continually be updated and expanded with more information.**
-
-  <a href="https://discord.com">
-  <img width="300" src="https://github.com/Hacking-Notes/Hacking-Notes/assets/118412415/5f34c47e-8f9e-40ef-885d-91ee9a6c5989" alt="gif">
-  </a>

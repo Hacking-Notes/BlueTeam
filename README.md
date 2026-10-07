@@ -1,3 +1,11 @@
+<div align="center">
+
+<kbd>&nbsp;BLUE TEAM&nbsp;</kbd> &nbsp; <kbd>&nbsp;DEFENSE&nbsp;</kbd> &nbsp; <kbd>&nbsp;NOTES&nbsp;</kbd> &nbsp; 
+
+[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+
+</div>
+
 # Hacking Notes (BlueTeam)
 
 Welcome to my GitHub repository! This repository is dedicated to sharing notes and resources related to blue team security, which focuses on detecting and preventing cyber attacks. Here, you'll find information on various aspects of blue team security, including email analysis, file analysis, log analysis, malware analysis, memory forensics analysis, and packet analysis.
@@ -33,3 +41,18 @@ If you want to have my notes available offline in your Obsidian setup, feel free
 ---
 
 **Please note that these notes do not comprise a comprehensive guide to becoming a blueteamer. They are a work in progress and will continually be updated and expanded with more information.**
+
+<br>
+
+<div align="center">
+
+### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
+[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
+[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
+
+<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+
+</div>
